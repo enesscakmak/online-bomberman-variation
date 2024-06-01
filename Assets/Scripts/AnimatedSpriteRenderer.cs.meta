@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 56fd141a6cdb32d40876d52672683416
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - idleSprite: {fileID: -5813001471386958864, guid: 4b166de317252fe47a985afc46a6bd67, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

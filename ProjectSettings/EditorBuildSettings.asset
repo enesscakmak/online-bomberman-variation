@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: aea467cac6bc37e4fa8eafbd1b810512
+  - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: ed60f92ca7eb9684caf7a90801c7c361
+  - enabled: 1
+    path: Assets/Scenes/Bomberman.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  m_configObjects: {}
